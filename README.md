@@ -7,13 +7,6 @@ CSS
 Trello  
 Visual Studio code  
 
-Funcionalidades do Projeto:
-1. Consultar pacientes
-2. Exibir dados da paciente
-3. Exibir microáreas
-4. Exibir mini mapa
-5. Enviar alerta
-6. Emitir relatório
 
 CRIAR COLUNA <br>
 CRIAR TAREFA<br>
