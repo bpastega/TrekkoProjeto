@@ -6,5 +6,3 @@ HTML
 CSS
 Trello
 Visual Studio code
-
-teste
