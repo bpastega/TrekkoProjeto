@@ -17,7 +17,7 @@ A plataforma irá permitir a criação de vários quadros compostos por tarefas 
 <li>Alterar Cor de Fundo</li>
 </ul>
 
-<p>Em um contexto prático, o usuário emprega o software como uma solução para gestão de suas tarefas e atividades, facultando sua modificação, movimento ou remoção. O software pode desempenhar um papel fundamental na rotina de quem o utiliza, viabilizando uma gestão de variadas demandas.</p>
+<p>Em um contexto prático, o usuário poderia empregar o software como uma ferramenta para gestão de suas tarefas e atividades do cotidiano, podendo ser de natureza tanto profissional quanto pessoal. O software desempenharia um papel transformador na rotina de quem o utiliza, possibilitando melhor organização de maneira simples e intuitiva.</p>
 
 <h2>Tecnologias Utilizadas:</h2>  
 <ul>
@@ -28,4 +28,5 @@ A plataforma irá permitir a criação de vários quadros compostos por tarefas 
 <li>GitHub</li> 
 <li>Figma</li> 
 </ul>
+
 Faremos uso de HTML e CSS para definir e codificar a apresentação do programa, Visual Studio Code para elaboração de código e contribuições simultâneas entre membros da equipe diretamente na plataforma GitHub, e Figma para desenho de alta fidelidade e telas funcionais.
