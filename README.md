@@ -4,26 +4,29 @@
 Com base no trello, o nosso projeto Trekko, traz um site que permite a criação de vários boards e a organização das mesmas em colunas. As boards possuem várias maneiras para customização, como a alteração da cor de fundo, criação de verificações para diversas atividades e a marcação de membros para a verificação dos mesmos.</p>  
 
 <h2>Tecnologias Utilizadas:</h2>  
-* **HTML**  
-* **CSS**  
-* **Trello**  
-* **Visual Studio code**  
-* **GitHub**  
-
+<ul>
+<li>HTML</li> 
+<li>CSS</li>  
+<li>Trello</li>
+<li>Visual Studio code</li>
+<li>GitHub</li> 
+<li>Figma</li> 
+</ul>
 Faremos uso de HTML e CSS para definir a apresentação
 
 <h2>Funcionalidades do Projeto:</h2>  
-* **Criar Coluna**
-* **Criar Tarefa**
-* **Manter Coluna**
-* **Manter Tarefa**
-* **Mover Tarefas Entre Coluna**
-* **Salvar Data e Hora da Criação de uma Tarefa**
-* **Editar Tarefa**
-* **Editar Coluna**
-* **Alterar Cor de Fundo**
-<<<<<<< HEAD
- </ul>
+<ul>
+<li>Criar Coluna</li>
+<li>Criar Tarefa</li>
+<li>Manter Coluna</li>
+<li>Manter Tarefa</li>
+<li>Mover Tarefas Entre Coluna</li>
+<li>Salvar Data e Hora da Criação de uma Tarefa</li>
+<li>Editar Tarefa</li>
+<li>Editar Coluna</li>
+<li>Alterar Cor de Fundo</li>
+</ul>
+
 Em um cenário real, o usuário utilizar o programa como forma de organizar suas tarefas em colunas, podendo modifica-las, altera-las ou mesmo exclui-las. O software servirá como um auxilio no dia a dia do usuário, permitindo realizar a gestão de suas demandas
 =======
 
