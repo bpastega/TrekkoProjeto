@@ -23,4 +23,4 @@ Faremos uso de HTML e CSS para definir a apresentação
 * **Editar Coluna**
 * **Alterar Cor de Fundo**
 
-Em um contexto prático, o usuário emprega o software como uma solução para gestão de suas tarefas e atividades, facultando sua modificação, movimento ou remoção. O software pode desempenhar um papel fundamental na rotina de quem o utiliza, viabilizando uma gestão de variadas demandas.
+<p>Em um contexto prático, o usuário emprega o software como uma solução para gestão de suas tarefas e atividades, facultando sua modificação, movimento ou remoção. O software pode desempenhar um papel fundamental na rotina de quem o utiliza, viabilizando uma gestão de variadas demandas.</p>
