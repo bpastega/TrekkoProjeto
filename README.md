@@ -2,7 +2,7 @@
 
 <h2>Descrição do Projeto</h2>
 <p>Este projeto da matéria de 'Métodos Ágeis, Protótipos de Alta Fidelidade e Telas Funcionais', tem como seu foco recriar a plataforma Trello para fins de estudo dentro do curso de Engenharia de Software.  
-A plataforma irá permitir a criação de vários quadros compostos por tarefas e a organização destas em colunas. Será possível consultar data de criação das tarefas, editá-las ou removê-las bem como as movimentar livremente entre diferentes colunas. Estas, que podem ser criadas ou deletadas pelo usuário tem como número limite um total de dez colunas dentro do mesmo quadro. O usuário poderá localmente customizar a cor de fundo de seu quadro na plataforma, podendo usar apenas cores sólidas para fazê-lo.</p>  
+A plataforma irá permitir a criação de vários quadros compostos por tarefas e a organização destas em colunas. Será possível consultar data de criação das tarefas, editá-las ou removê-las bem como as movimentar livremente entre diferentes colunas. Estas, que poderão ser criadas ou deletadas pelo usuário terão como número limite um total de dez colunas dentro do mesmo quadro. O usuário poderá localmente customizar a cor de fundo de seu quadro na plataforma, podendo usar apenas cores sólidas para fazê-lo.</p>  
 
 <h2>Funcionalidades do Projeto:</h2>  
 <ul>
@@ -17,7 +17,7 @@ A plataforma irá permitir a criação de vários quadros compostos por tarefas 
 <li>Alterar Cor de Fundo</li>
 </ul>
 
-<p>Em um contexto prático, o usuário poderia empregar o software como uma ferramenta para gestão de suas tarefas e atividades do cotidiano, podendo ser de natureza tanto profissional quanto pessoal. O software desempenharia um papel transformador na rotina de quem o utiliza, possibilitando melhor organização de maneira simples e intuitiva.</p>
+<p>Em um contexto prático fictício, o usuário poderia empregar o software como uma ferramenta para gestão de suas tarefas e atividades do cotidiano, podendo ser de natureza tanto profissional quanto pessoal. O software desempenharia um papel transformador na rotina de quem o utiliza, possibilitando melhor organização de maneira simples e intuitiva.</p>
 
 <h2>Tecnologias Utilizadas:</h2>  
 <ul>
