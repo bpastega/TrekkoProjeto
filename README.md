@@ -12,6 +12,7 @@ A plataforma irá permitir a criação de vários quadros compostos por tarefas 
 <li>Manter Tarefa</li>
 <li>Mover Tarefas Entre Coluna</li>
 <li>Salvar Data e Hora da Criação de uma Tarefa</li>
+<li>Excluir Tarefa</li>
 <li>Editar Tarefa</li>
 <li>Editar Coluna</li>
 <li>Alterar Cor de Fundo</li>
