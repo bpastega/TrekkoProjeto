@@ -27,7 +27,4 @@ Faremos uso de HTML e CSS para definir a apresentação
 <li>Alterar Cor de Fundo</li>
 </ul>
 
-Em um cenário real, o usuário utilizar o programa como forma de organizar suas tarefas em colunas, podendo modifica-las, altera-las ou mesmo exclui-las. O software servirá como um auxilio no dia a dia do usuário, permitindo realizar a gestão de suas demandas
-=======
-
 <p>Em um contexto prático, o usuário emprega o software como uma solução para gestão de suas tarefas e atividades, facultando sua modificação, movimento ou remoção. O software pode desempenhar um papel fundamental na rotina de quem o utiliza, viabilizando uma gestão de variadas demandas.</p>
