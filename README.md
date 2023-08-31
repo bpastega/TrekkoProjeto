@@ -6,6 +6,7 @@ Tecnologias Utilizadas:
 * **CSS**  
 * **Trello**  
 * **Visual Studio code**  
+* **GitHub**  
 
 CRIAR COLUNA  
 CRIAR TAREFA  
