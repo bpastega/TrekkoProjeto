@@ -7,7 +7,6 @@ CSS
 Trello  
 Visual Studio code  
 
-
 CRIAR COLUNA <br>
 CRIAR TAREFA<br>
 MANTER COLUNA<br>
