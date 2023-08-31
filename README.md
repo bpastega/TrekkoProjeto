@@ -10,13 +10,13 @@ Tecnologias Utilizadas:
 
 
 Funcionalidades do Projeto:
-* **CRIAR COLUNA**
-* **CRIAR TAREFA**
-* **MANTER COLUNA**
-* **MANTER TAREFA**
-* **MOVER TAREFAS ENTER COLUNA**
-* **SALVAR DATA E HORA DA CRIAÇAO DE UMA TAREFA**
-* **EDITAR TAREFA**
-* **EDITAR COLUNA**
-* **ALTERAR COR DE FUNDO**
+* **Criar Coluna**
+* **Criar Tarefa**
+* **Manter Coluna**
+* **Manter Tarefa**
+* **Mover Tarefas Entre Coluna**
+* **Salvar Data e Hora da Criação de uma Tarefa**
+* **Editar Tarefa**
+* **Editar Coluna**
+* **Alterar Cor de Fundo**
 
