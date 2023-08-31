@@ -28,4 +28,3 @@ Em um cenário real, o usuário utilizar o programa como forma de organizar suas
 =======
 
 <p>Em um contexto prático, o usuário emprega o software como uma solução para gestão de suas tarefas e atividades, facultando sua modificação, movimento ou remoção. O software pode desempenhar um papel fundamental na rotina de quem o utiliza, viabilizando uma gestão de variadas demandas.</p>
->>>>>>> f130cc51a8b5d7be6e4b0138420c5e6779c8eb71
