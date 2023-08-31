@@ -17,7 +17,7 @@ A plataforma irá permitir a criação de vários quadros compostos por tarefas 
 <li>Alterar Cor de Fundo</li>
 </ul>
 
-<p>Em um contexto prático fictício, o usuário poderia empregar o software como uma ferramenta para gestão de suas tarefas e atividades do cotidiano, podendo ser de natureza tanto profissional quanto pessoal. O software desempenharia um papel transformador na rotina de quem o utiliza, possibilitando melhor organização de maneira simples e intuitiva.</p>
+<p>Em um contexto prático fictício, o usuário poderia empregar o software como uma ferramenta para gestão de suas tarefas e atividades do cotidiano ou tarefas atípicas e de alta complexidade, podendo ser de natureza tanto profissional quanto pessoal. O software teria potencial de desempenhar um papel transformador na rotina de quem o utiliza, possibilitando melhor organização e visualização de seus afazeres de maneira simples e intuitiva.</p>
 
 <h2>Tecnologias Utilizadas:</h2>  
 <ul>
