@@ -9,7 +9,7 @@ Um projeto da matéria de 'Métodos Ágeis, Protótipos de Alta Fidelidade e Tel
 * **GitHub**  
 
 
-### Funcionalidades do Projeto:
+## Funcionalidades do Projeto:
 * **Criar Coluna**
 * **Criar Tarefa**
 * **Manter Coluna**
