@@ -1,7 +1,7 @@
 <head><h1>TrekkoProjeto</h1></head>
 <body>
 <h2>Descrição do Projeto</h2>
-<p>Este projeto da matéria de 'Métodos Ágeis, Protótipos de Alta Fidelidade e Telas Funcionais', tem como seu foco recriar a plataforma Trello para fins de estudo dentro do curso de Engenharia de Software.  
+<p> Este projeto da matéria de 'Métodos Ágeis, Protótipos de Alta Fidelidade e Telas Funcionais', tem como seu foco recriar a plataforma Trello para fins de estudo dentro do curso de Engenharia de Software.  
 A plataforma irá permitir a criação de vários quadros compostos por tarefas e a organização destas em colunas. Será possível consultar data de criação das tarefas, editá-las ou removê-las bem como as movimentar livremente entre diferentes colunas. Estas, que poderão ser criadas ou deletadas pelo usuário terão como número limite um total de dez colunas dentro do mesmo quadro. O usuário poderá localmente customizar a cor de fundo de seu quadro na plataforma, podendo usar apenas cores sólidas para fazê-lo.</p>  
 
 <h2>Funcionalidades do Projeto:</h2>  
