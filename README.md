@@ -12,7 +12,7 @@ Com base no trello, o nosso projeto Trekko, traz um site que permite a criação
 <li>GitHub</li> 
 <li>Figma</li> 
 </ul>
-Faremos uso de HTML e CSS para definir a apresentação
+Faremos uso de HTML e CSS para definir e codificar a apresentação do programa, Visual Studio Code para elaboração de código e contribuições simultâneas entre membros da equipe diretamente na plataforma GitHub, e Figma para desenho de alta fidelidade e telas funcionais.
 
 <h2>Funcionalidades do Projeto:</h2>  
 <ul>
